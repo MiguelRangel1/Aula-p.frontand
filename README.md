@@ -34,13 +34,13 @@ CODIGO HTML
     </section>
     <section>
         <h2>Contatos</h2>
-        <ul>
-            <li><a href="https://www.youtube.com/@TcK10">Canal no YT</a></li>
-            <li><a href="https://web.whatsapp.com">Contato</a></li>
-            <li><a href="https://web.whatsapp.com">Redes Sociais</a></li>
-            <li><a href="https://www.google.com/intl/pt-BR/gmail/about/">E-mail Marketing</a></li>
-            <li><a href="https://ebaconline.com.br/mkt-start">Marketing de Influência</a></li>
-        </ul>
+            <ul>
+                <li><a href="https://www.youtube.com/@TcK10">Canal no YT</a></li>
+                <li><a href="https://web.whatsapp.com">Contato</a></li>
+                <li><a href="https://web.whatsapp.com">Redes Sociais</a></li>
+                <li><a href="https://www.google.com/intl/pt-BR/gmail/about/">E-mail Marketing</a></li>
+                <li><a href="https://ebaconline.com.br/mkt-start">Marketing de Influência</a></li>
+            </ul>
 </div>
 
 <footer>
